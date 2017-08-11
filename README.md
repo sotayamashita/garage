@@ -1,7 +1,8 @@
 # garage
-Centralized my stuff
 
-## Translation
+> centralized my stuff
+
+## translation
 
 - [漫画で説明する Flux](https://medium.com/sotayamashita/%E6%BC%AB%E7%94%BB%E3%81%A7%E8%AA%AC%E6%98%8E%E3%81%99%E3%82%8B-flux-99b74b3c4081)
  - original: [A cartoon guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207)
