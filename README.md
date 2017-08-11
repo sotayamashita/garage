@@ -10,13 +10,13 @@ All decks are uploaded in [Speaker Deck](https://speakerdeck.com/sotayamashita).
 
 - Septermber
 
-  - [comming soon]() - `devrel`
+  - [comming soon]() - `#devrel`
   
     > at [DevRel Meetup in Tokyo #23 \~より良い開発者ドキュメントを目指そう\~](https://devrel.connpass.com/event/64284/) on Tuesday, September, 5, 2017 JST
 
 - Auguest
 
-  - [comming soon]() - `technology` & `english`
+  - [comming soon]() - `#technology` & `#english`
   
     > at [Creators Learning English Meetup x FiNC](https://clem.connpass.com/event/63658/) on Wednesday, Auguest, 23, 2017 JST
  
