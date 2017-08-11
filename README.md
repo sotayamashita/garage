@@ -6,17 +6,19 @@
 
 All decks are uploaded in [Speaker Deck](https://speakerdeck.com/sotayamashita).
 
-### Technology
+## 2017
 
-- [OSS 翻訳と GitLocalize](https://speakerdeck.com/sotayamashita/oss-fan-yi-to-gitlocalize)
-       
-  > I am member of GitLocalize and I had the presentation to join Open Source Projects from translation. Translation is very easy way at [Node学園](https://nodejs.connpass.com/event/53534/) on Friday, March, 31, 2017 JST
-
-### Business
-
-- [What is GitHub Marketplace and good for?](https://speakerdeck.com/sotayamashita/what-is-github-marketplace-and-good-for)
+- Auguest
+ 
+  - [What is GitHub Marketplace and good for?](https://speakerdeck.com/sotayamashita/what-is-github-marketplace-and-good-for) - `#business`
   
-  > I am member of GitLocalize and we published GitLocalize in GutHub Marketplace on Tuesday, Auguest, 2, 2017 JST and I had the presentation of knowledge what I learn to implement integration with GitHub Marketplace at [SideCI勉強会 - GitHubの一段上の使い方を学ぶ](https://sideci.connpass.com/event/60437/) on Thirdsday, July 20, 2017 JST
+    > I am member of GitLocalize and we published GitLocalize in GutHub Marketplace on Tuesday, Auguest, 2, 2017 JST and I had the presentation of knowledge what I learn to implement integration with GitHub Marketplace at [SideCI勉強会 - GitHubの一段上の使い方を学ぶ](https://sideci.connpass.com/event/60437/) on Thirdsday, July 20, 2017 JST
+
+- March
+
+  - [OSS 翻訳と GitLocalize](https://speakerdeck.com/sotayamashita/oss-fan-yi-to-gitlocalize) - `#technology`
+       
+    > I am member of GitLocalize and I had the presentation to join Open Source Projects from translation. Translation is very easy way at [Node学園](https://nodejs.connpass.com/event/53534/) on Friday, March, 31, 2017 JST
 
 
 ## Translation :note:
