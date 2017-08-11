@@ -8,9 +8,15 @@ All decks are uploaded in [Speaker Deck](https://speakerdeck.com/sotayamashita).
 
 ## 2017
 
+- 9
+
+  - [comming soon] - `devrel`
+  
+    > at [DevRel Meetup in Tokyo #23 ~より良い開発者ドキュメントを目指そう~](https://devrel.connpass.com/event/64284/) on Tuesday, September, 5, 2017 JST
+
 - 8
 
-  - [comming soon]() - `technology`
+  - [comming soon]() - `technology` & `english`
   
     > at [Creators Learning English Meetup x FiNC](https://clem.connpass.com/event/63658/) on Wednesday, Auguest, 23, 2017 JST
  
