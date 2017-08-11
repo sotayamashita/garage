@@ -11,8 +11,8 @@ All decks are uploaded in [Speaker Deck](https://speakerdeck.com/sotayamashita).
 - 8
 
   - [comming soon]() - `technology`
-  
-    > at [Creators Learning English Meetup x FiNC](https://clem.connpass.com/event/63658/) on Wednesday, Auguest, 23, 2017 JST
+  
+    > at [Creators Learning English Meetup x FiNC](https://clem.connpass.com/event/63658/) on Wednesday, Auguest, 23, 2017 JST
  
 - 7
 
