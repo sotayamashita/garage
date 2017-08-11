@@ -8,13 +8,19 @@ All decks are uploaded in [Speaker Deck](https://speakerdeck.com/sotayamashita).
 
 ## 2017
 
-- Auguest
+- 8
+
+  - [comming soon]() - `technology`
+  
+    > at [Creators Learning English Meetup x FiNC](https://clem.connpass.com/event/63658/) on Wednesday, Auguest, 23, 2017 JST
  
+- 7
+
   - [What is GitHub Marketplace and good for?](https://speakerdeck.com/sotayamashita/what-is-github-marketplace-and-good-for) - `#business`
   
     > I am member of GitLocalize and we published GitLocalize in GutHub Marketplace on Tuesday, Auguest, 2, 2017 JST and I had the presentation of knowledge what I learn to implement integration with GitHub Marketplace at [SideCI勉強会 - GitHubの一段上の使い方を学ぶ](https://sideci.connpass.com/event/60437/) on Thirdsday, July 20, 2017 JST
 
-- March
+- 3
 
   - [OSS 翻訳と GitLocalize](https://speakerdeck.com/sotayamashita/oss-fan-yi-to-gitlocalize) - `#technology`
        
