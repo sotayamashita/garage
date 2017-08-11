@@ -9,8 +9,8 @@ All decks are uploaded in [Speaker Deck](https://speakerdeck.com/sotayamashita).
 ### Technology
 
 - [OSS 翻訳と GitLocalize](https://speakerdeck.com/sotayamashita/oss-fan-yi-to-gitlocalize)
-
-  > I am member of GitLocalize and I had the presentation to join Open Source Projects from translation. Translation is very easy way at [Node学園](https://nodejs.connpass.com/event/53534/) on Friday, March, 31, 2017
+       
+  > I am member of GitLocalize and I had the presentation to join Open Source Projects from translation. Translation is very easy way at [Node学園](https://nodejs.connpass.com/event/53534/) on Friday, March, 31, 2017
 
 ### Business
 
