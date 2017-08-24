@@ -16,7 +16,7 @@ All decks are uploaded in [Speaker Deck](https://speakerdeck.com/sotayamashita).
 
 - Auguest
 
-  - [comming soon]() - `#technology` & `#english`
+  - [3 Tips for meeting](https://speakerdeck.com/sotayamashita/3-tips-for-meeting) - `#technology` & `#english`
   
     > at [Creators Learning English Meetup x FiNC](https://clem.connpass.com/event/63658/) on Wednesday, Auguest, 23, 2017 JST
  
