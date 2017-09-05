@@ -10,7 +10,7 @@ All decks are uploaded in [Speaker Deck](https://speakerdeck.com/sotayamashita).
 
 - Septermber
 
-  - [comming soon]() - `#devrel`
+  - [DX に優れた多言語化ドキュメント作成方法](https://speakerdeck.com/sotayamashita/dx-niyou-retaduo-yan-yu-hua-tokiyumentozuo-cheng-fang-fa) - `#devrel`
 
     > at [DevRel Meetup in Tokyo #23 \~より良い開発者ドキュメントを目指そう\~](https://devrel.connpass.com/event/64284/) on Tuesday, September, 5, 2017 JST
 
